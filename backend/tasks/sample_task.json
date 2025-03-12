@@ -1,0 +1,24 @@
+{
+  "description": "Napište funkci `add(a, b)`, která vrátí součet dvou čísel.",
+  "id": "sample_task",
+  "initialCode": "def add(a, b):\n    # Implementujte funkci zde\n    pass\n\n# Můžete si funkci otestovat\nprint(add(2, 3))",
+  "language": "python",
+  "tests": [
+    {
+      "code": "add(2, 3)",
+      "expected": 5,
+      "name": "Test základního sčítání"
+    },
+    {
+      "code": "add(-1, -2)",
+      "expected": -3,
+      "name": "Test s negativními čísly"
+    },
+    {
+      "code": "add(0, 5)",
+      "expected": 5,
+      "name": "Test s nulou"
+    }
+  ],
+  "title": "Sčítání dvou čísel"
+}

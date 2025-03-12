@@ -1,0 +1,14 @@
+{
+  "title": "Test",
+  "description": "wrdef",
+  "language": "python",
+  "initialCode": "# Vložte svůj kód zde\n",
+  "tests": [
+    {
+      "name": "Test 1",
+      "code": "",
+      "expected": "5"
+    }
+  ],
+  "id": "c244e643-e7da-4f72-8c89-bf6ca1cd0e27"
+}
